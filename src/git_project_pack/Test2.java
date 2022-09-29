@@ -6,6 +6,8 @@ public class Test2 {
 
 
 		System.out.println("this is imported and modified");
+		
+		System.out.println("this is second modification");
 
 	}
 
